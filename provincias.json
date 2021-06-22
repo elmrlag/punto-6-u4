@@ -1,0 +1,29 @@
+{
+    "__class__": "ManejadorProvincias",
+    "provincias": [
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "San juan",
+                "capital": "san juan",
+                "cantHabitantes": "88",
+                "cantDepPar": "8000",
+                "temperatura": 50,
+                "sensacion": 10,
+                "humedad": 50
+            }
+        },
+        {
+            "__class__": "Provincia",
+            "__atributos__": {
+                "nombre": "Catamarca",
+                "capital": "Ni idea",
+                "cantHabitantes": "51",
+                "cantDepPar": "5",
+                "temperatura": "6",
+                "sensacion": "2",
+                "humedad": "1"
+            }
+        }
+    ]
+}
